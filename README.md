@@ -1,32 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=빅데이터%20전문가(예정)&fontSize=50)
+Hi there!
+---
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<p>
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+<a href="https://www.instagram.com/yeonghun_e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+<p>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JoYeonghun)](https://github.com/JoYeonghun)
+[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=JoYeonghun)](https://github.com/JoYeonghun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoYeonghun)](https://github.com/JoYeonghun/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoYeonghun&layout=compact)](https://github.com/JoYeonghun/github-readme-stats)
-
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-
-> 공자 가라사대~~~
-* 열공하라
-* 놀땐 놀아라.
-*
-
-# Hi there
-## Hi there
-### Hi there
-#### Hi there
-##### Hi there
-
-[네이버가자](https://www.naver.com)
-
----
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
